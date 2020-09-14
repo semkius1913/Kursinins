@@ -1,0 +1,166 @@
+Enter number of individuals: 
+error:
+invalid literal for int() with base 10: ''
+setting individuals number to default
+Enter number of features: 
+error:
+invalid literal for int() with base 10: ''
+setting features number to default
+Number of individuals: 960 Number of features: 8
+dots, [[1y 1x], [2y, 2x], [3y, 3x]], iteration
+[186, [[102, 185], [101, 191], [36, 210]], 0]
+[342, [[99, 202], [63, 196], [52, 213]], 0]
+[552, [[62, 218], [46, 202], [103, 191]], 0]
+[712, [[42, 205], [102, 202], [114, 225]], 0]
+[1195, [[49, 203], [125, 183], [115, 217]], 1]
+[1410, [[120, 224], [39, 204], [111, 187]], 2]
+[1674, [[28, 208], [105, 192], [121, 232]], 19]
+[1697, [[124, 179], [37, 209], [115, 221]], 58]
+[1752, [[124, 225], [31, 207], [122, 187]], 119]
+[1855, [[34, 206], [123, 229], [110, 184]], 218]
+[2029, [[124, 180], [123, 228], [39, 203]], 272]
+[2332, [[28, 207], [124, 233], [126, 185]], 1369]
+[2435, [[128, 182], [28, 208], [119, 233]], 1746]
+
+Process finished with exit code 0
+
+Enter number of individuals: 
+error:
+invalid literal for int() with base 10: ''
+setting individuals number to default
+Enter number of features: 
+error:
+invalid literal for int() with base 10: ''
+setting features number to default
+Number of individuals: 960 Number of features: 8
+dots, [[1y 1x], [2y, 2x], [3y, 3x]], iteration
+[13, [[102, 203], [99, 203], [89, 194]], 0]
+[123, [[60, 207], [56, 201], [101, 210]], 0]
+[236, [[103, 192], [31, 208], [78, 204]], 0]
+[457, [[120, 226], [65, 214], [113, 208]], 0]
+[1279, [[34, 210], [125, 234], [110, 202]], 0]
+[1490, [[110, 231], [118, 192], [38, 210]], 6]
+[1521, [[114, 193], [127, 228], [32, 206]], 14]
+[1593, [[126, 234], [113, 192], [40, 201]], 62]
+[1717, [[122, 188], [124, 229], [39, 202]], 121]
+[1841, [[127, 185], [126, 222], [27, 207]], 127]
+[2004, [[124, 235], [118, 185], [40, 202]], 141]
+[2287, [[121, 185], [31, 205], [124, 235]], 181]
+[2380, [[33, 209], [125, 181], [124, 233]], 674]
+
+Process finished with exit code 0
+
+Enter number of individuals: 
+error:
+invalid literal for int() with base 10: ''
+setting individuals number to default
+Enter number of features: 
+error:
+invalid literal for int() with base 10: ''
+setting features number to default
+Number of individuals: 960 Number of features: 8
+dots, [[1y 1x], [2y, 2x], [3y, 3x]], iteration
+[189, [[87, 207], [106, 219], [81, 223]], 0]
+[244, [[88, 215], [90, 191], [107, 229]], 0]
+[1540, [[126, 183], [115, 217], [28, 206]], 0]
+[2079, [[28, 206], [123, 182], [122, 226]], 28]
+[2105, [[127, 228], [121, 182], [33, 208]], 351]
+[2291, [[124, 227], [125, 178], [31, 204]], 403]
+
+Process finished with exit code 0
+
+Enter number of individuals: 
+error:
+invalid literal for int() with base 10: ''
+setting individuals number to default
+Enter number of features: 
+error:
+invalid literal for int() with base 10: ''
+setting features number to default
+Number of individuals: 960 Number of features: 8
+dots, [[1y 1x], [2y, 2x], [3y, 3x]], iteration
+[16, [[239, 137], [217, 128], [252, 141]], 0]
+[666, [[92, 225], [127, 214], [92, 188]], 0]
+[703, [[74, 201], [119, 232], [100, 188]], 0]
+[1014, [[126, 193], [44, 200], [122, 218]], 1]
+[1691, [[28, 205], [120, 228], [126, 193]], 5]
+[1692, [[39, 211], [123, 190], [127, 229]], 29]
+[1783, [[123, 181], [124, 227], [46, 200]], 97]
+[2233, [[118, 181], [29, 204], [126, 229]], 177]
+[2256, [[127, 180], [38, 211], [126, 231]], 212]
+
+Process finished with exit code 0
+
+Enter number of individuals: 
+error:
+invalid literal for int() with base 10: ''
+setting individuals number to default
+Enter number of features: 
+error:
+invalid literal for int() with base 10: ''
+setting features number to default
+Number of individuals: 960 Number of features: 8
+dots, [[1y 1x], [2y, 2x], [3y, 3x]], iteration
+[483, [[62, 198], [119, 221], [84, 190]], 0]
+[498, [[124, 188], [73, 216], [63, 202]], 0]
+[677, [[123, 186], [78, 199], [92, 225]], 0]
+[1756, [[125, 193], [34, 210], [117, 233]], 0]
+[1778, [[41, 212], [123, 185], [124, 228]], 13]
+[1810, [[126, 180], [126, 234], [58, 205]], 25]
+[1836, [[121, 233], [45, 211], [122, 185]], 83]
+[1984, [[126, 182], [31, 209], [118, 226]], 87]
+[2057, [[123, 234], [31, 209], [107, 185]], 315]
+[2314, [[127, 234], [38, 208], [120, 180]], 384]
+[2350, [[125, 179], [120, 232], [34, 204]], 1335]
+[2428, [[35, 210], [121, 234], [126, 179]], 2464]
+
+Process finished with exit code 0
+
+Enter number of individuals: 
+error:
+invalid literal for int() with base 10: ''
+setting individuals number to default
+Enter number of features: 
+error:
+invalid literal for int() with base 10: ''
+setting features number to default
+Number of individuals: 960 Number of features: 8
+dots, [[1y 1x], [2y, 2x], [3y, 3x]], iteration
+[176, [[39, 210], [31, 207], [117, 197]], 0]
+[311, [[114, 208], [126, 189], [80, 212]], 0]
+[647, [[112, 190], [66, 202], [93, 223]], 0]
+[853, [[71, 197], [107, 185], [128, 225]], 0]
+[1170, [[128, 200], [43, 212], [110, 230]], 0]
+[2041, [[124, 184], [34, 204], [125, 229]], 0]
+[2063, [[122, 228], [39, 209], [125, 179]], 68]
+[2070, [[39, 205], [121, 229], [126, 180]], 345]
+[2435, [[122, 179], [37, 204], [126, 235]], 633]
+
+Process finished with exit code 0
+
+Enter number of individuals: 
+error:
+invalid literal for int() with base 10: ''
+setting individuals number to default
+Enter number of features: 
+error:
+invalid literal for int() with base 10: ''
+setting features number to default
+Number of individuals: 960 Number of features: 8
+dots, [[1y 1x], [2y, 2x], [3y, 3x]], iteration
+[27, [[104, 201], [107, 200], [88, 224]], 0]
+[186, [[110, 207], [86, 210], [115, 191]], 0]
+[475, [[93, 198], [59, 217], [107, 218]], 0]
+[582, [[117, 183], [83, 218], [122, 212]], 0]
+[614, [[128, 220], [48, 213], [63, 199]], 0]
+[629, [[127, 217], [60, 202], [99, 192]], 1]
+[761, [[123, 189], [47, 202], [88, 215]], 2]
+[795, [[101, 187], [127, 212], [71, 219]], 2]
+[1513, [[124, 232], [60, 209], [124, 184]], 3]
+[1839, [[40, 201], [119, 181], [121, 227]], 103]
+[1881, [[46, 205], [127, 231], [122, 183]], 135]
+[2080, [[31, 204], [127, 227], [124, 183]], 252]
+[2233, [[31, 204], [126, 179], [109, 230]], 586]
+[2492, [[119, 181], [126, 235], [30, 206]], 1430]
+
+Process finished with exit code 0
