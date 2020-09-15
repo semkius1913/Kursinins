@@ -1,10 +1,4 @@
-#  IMPROTERS
 import random
-
-#  END OF IMPORTS
-
-#  INSERT FUNCTIONS
-
 
 def binaryToDecimal(x):
     value = 0
